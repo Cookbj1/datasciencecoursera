@@ -7,6 +7,7 @@ output: html_document
 
 ##This is an R Markdown document. 
 ### Really it is Markdown.
+Testing a list:
 
 * Item 1
 * Item 2
